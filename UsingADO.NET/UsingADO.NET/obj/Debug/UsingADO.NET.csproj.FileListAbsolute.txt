@@ -1,0 +1,11 @@
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\bin\Debug\UsingADO.NET.exe.config
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\bin\Debug\UsingADO.NET.exe
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\bin\Debug\UsingADO.NET.pdb
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.csproj.AssemblyReference.cache
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.frmSinhVien.resources
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.Properties.Resources.resources
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.csproj.GenerateResource.cache
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.csproj.CoreCompileInputs.cache
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.exe
+C:\Workspace\WinForm\Lab02\UsingADO.NET\UsingADO.NET\obj\Debug\UsingADO.NET.pdb
